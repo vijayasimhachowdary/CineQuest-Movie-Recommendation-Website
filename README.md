@@ -1,2 +1,1 @@
 
-Delete file "README.md".
