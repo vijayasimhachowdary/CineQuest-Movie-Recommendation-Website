@@ -125,7 +125,7 @@ export const movies: {
       genre: 'Comedy',
       year: 2010,
       director: 'Dennis Dugan',
-      posterUrl: 'https://www.tvguide.com/a/img/catalog/provider/1/2/1-10093551629.jpg',
+      posterUrl: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdve6fd__VnirwAgD_cZWE6o8wQJ5jgOgQrIUVo6w0MeBZ-zpaWdT6g9__vLp3hEPAfnEI',
       description: 'After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.',
       rating: 6.0,
       cast: ['Adam Sandler', 'Kevin James', 'Chris Rock']
@@ -180,7 +180,7 @@ export const movies: {
       genre: 'Comedy',
       year: 2003,
       director: 'Todd Phillips',
-      posterUrl: 'https://static.cinemagia.ro/img/db/movie/00/47/96/old-school-437583l.jpg',
+      posterUrl: 'https://m.media-amazon.com/images/M/MV5BZGZiNGEwNjQtNTMzOS00NDI3LWI2ZWQtMGQwMjEzNjExZjNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
       description: 'Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.',
       rating: 7.1,
       cast: ['Luke Wilson', 'Vince Vaughn', 'Will Ferrell']
