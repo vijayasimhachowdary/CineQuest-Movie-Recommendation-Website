@@ -360,7 +360,7 @@ export const movies: {
       genre: 'Romance',
       year: 2024,
       director: 'Richard Linklater',
-      posterUrl: 'https://pics.filmaffinity.com/hit_man-657550851-large.jpg',
+      posterUrl: 'https://upload.wikimedia.org/wikipedia/en/e/e8/Hit_man_2024_film.jpg',
       description: 'A strait-laced professor falls for a student while working undercover as a hitman, leading to unexpected complications and revelations.',
       rating: 7.2,
       cast: ['Glen Powell', 'Adria Arjona', 'Austin Amelio']
